@@ -1,2 +1,3 @@
 # ALGORITHM PRACTICE
-BOJ \n SW EXPERCT ACADEMY
+[BOJ](noj.am) </br>
+[SW EXPERCT ACADEMY](swexpertacademy.com)
