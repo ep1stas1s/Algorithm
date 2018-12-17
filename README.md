@@ -1,3 +1,3 @@
 # ALGORITHM PRACTICE
-[BOJ](noj.am) </br>
-[SW EXPERCT ACADEMY](swexpertacademy.com)
+[BOJ](https://noj.am) </br>
+[SW EXPERCT ACADEMY](https://swexpertacademy.com)
